@@ -1,0 +1,9 @@
+DEVIL ROCKER — BUILD 0.17.11
+Hiệu ứng chuyển động đồng bộ cho các khu vực có thẻ
+
+- Áp dụng chuyển động nổi nhẹ cho artwork trong bộ sưu tập, đội hình, chiến đấu, nâng sao và xem trước.
+- Thêm ánh sáng lướt trên artwork ở các khu vực dùng thẻ, không chỉ danh sách bộ sưu tập.
+- Làm rõ hào quang ở cửa sổ chi tiết Devil; ảnh chi tiết có chuyển động lên xuống nhẹ và ánh sáng quét thường xuyên hơn.
+- Thẻ 5–6 sao có ánh sáng vàng nổi bật hơn; thẻ đang chọn/hover có hào quang nhẹ.
+- Tôn trọng prefers-reduced-motion để giảm chuyển động theo cài đặt thiết bị.
+- Giữ nguyên logic game, save key dmt_offline_save, ảnh splash và assets/cards.

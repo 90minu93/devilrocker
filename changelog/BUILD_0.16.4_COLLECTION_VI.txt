@@ -1,0 +1,9 @@
+Devil Maker Tokyo Browser 0.16.5 — Devil Detail & Star Upgrade
+
+Nâng cấp từ bản 0.16.4 Collection.
+- Thêm nâng sao trực tiếp trong cửa sổ chi tiết Devil.
+- Hiển thị chi phí shard, số dư hiện tại và chỉ số dự kiến sau nâng.
+- Xác nhận trước khi tiêu shard; cập nhật collection, team, upgrade và ascend sau nâng.
+- Giữ localStorage key dmt_offline_save và cấu trúc cardStars/shards hiện có.
+
+Lưu ý: chỉ số là mô phỏng offline. Sao lưu save trước khi cập nhật. Kiểm thử cú pháp không thay thế kiểm thử tương tác trình duyệt.

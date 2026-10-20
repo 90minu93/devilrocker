@@ -1,0 +1,10 @@
+Devil Maker Tokyo — Offline Browser Build 0.16.8
+
+Thay đổi:
+- Chuyển màn hình Start thành màn hình khởi động/splash riêng, chiếm toàn màn hình.
+- Ẩn header và ví tài nguyên ở màn khởi động để tạo cảm giác vào game trước khi tới menu chính.
+- Có nút Vào game và Hướng dẫn; vào game lần đầu vẫn tự mở hướng dẫn nếu chưa xem.
+- Tạm ẩn mục “Tài nguyên gốc đã trích xuất” bằng thuộc tính hidden, không xóa nội dung khỏi source.
+- Giữ nguyên khóa lưu localStorage: dmt_offline_save.
+
+Kiểm tra: kiểm tra cú pháp JavaScript và tính toàn vẹn ZIP; chưa kiểm thử tương tác trong trình duyệt.

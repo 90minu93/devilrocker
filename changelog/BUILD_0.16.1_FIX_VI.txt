@@ -1,0 +1,6 @@
+Devil Maker Tokyo Browser Dev 0.16.1 — Hotfix ảnh tiến hóa trong hồ sơ Devil
+
+- Sửa lỗi ảnh trong detail-grid bị position:absolute neo theo viewport do khung .art thiếu position:relative.
+- Ảnh tiến hóa hiện nằm trong khung 2:3, giới hạn chiều rộng 280px và không phủ toàn màn hình.
+- Giữ nguyên logic save, Dungeon, hồ sơ Devil và đường dẫn assets/cards.
+- Đây là hotfix CSS; cần mở trên trình duyệt Windows để xác nhận thao tác thực tế.

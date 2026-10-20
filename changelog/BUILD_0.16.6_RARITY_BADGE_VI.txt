@@ -1,0 +1,15 @@
+Devil Maker Tokyo Browser - Build 0.16.6
+
+Thay đổi:
+- Gacha luôn hiển thị ảnh 1 sao cho các thẻ có bộ ảnh tiến hóa theo sao (Lilith/Astaroth/Asmodeus), không phụ thuộc số sao hiện tại đã nâng.
+- Thêm huy hiệu độ hiếm trên góc phải phía trên ảnh thẻ: SSR vàng, SR tím, R xanh lam.
+- Huy hiệu được thêm vào hàm vẽ ảnh thẻ dùng chung nên xuất hiện trong Collection, đội hình, chiến đấu, Gacha và các màn hình dùng chung ảnh thẻ; chi tiết Devil có huy hiệu riêng.
+- Giữ localStorage key dmt_offline_save và cấu trúc save hiện tại.
+
+Kiểm tra đã thực hiện:
+- node --check cho JavaScript nhúng: đạt.
+- Kiểm tra ZIP sau đóng gói: cần thực hiện sau khi tạo archive.
+- Chưa thực hiện kiểm thử tương tác trình duyệt.
+
+Lưu ý:
+- Để hiển thị ảnh 1 sao thật, cần có file assets/cards/<prefix>_1star.webp. Nếu file không tồn tại, ảnh fallback hiện có sẽ được dùng.

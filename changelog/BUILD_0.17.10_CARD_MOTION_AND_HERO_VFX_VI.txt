@@ -1,0 +1,8 @@
+DEVIL ROCKER — BUILD 0.17.10
+Hiệu ứng riêng cho Devil và chuyển động thẻ
+
+- Thêm hiệu ứng màu/ký hiệu riêng khi Devil tấn công: Lilith, Satan, Aya, Kitsune, Mika, Forneus, Beelzebub, Lucifer và một số nhân vật khác.
+- Thêm chuyển động portrait nhẹ, ánh sáng lướt qua artwork và hào quang khi chọn thẻ.
+- Tôn trọng prefers-reduced-motion để hạn chế chuyển động cho người dùng cần giảm hiệu ứng.
+- Không yêu cầu GIF mới; dùng CSS để giữ nhẹ, mượt và tương thích với ảnh WebP hiện có.
+- Giữ nguyên save key dmt_offline_save và assets/cards.

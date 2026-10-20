@@ -1,0 +1,9 @@
+DEVIL ROCKER — BUILD 0.17.6
+Sửa bố cục màn hình khởi động
+
+- Chỉnh vùng bấm Hướng dẫn và Changelog để không chồng lên nhau.
+- Giảm chiều cao vùng bấm và căn lại theo các nút in sẵn trên ảnh.
+- Giữ ảnh splash đúng tỷ lệ 900×590, tránh kéo giãn theo chiều cao cửa sổ.
+- Giữ nguyên gameplay, save key dmt_offline_save và toàn bộ assets/cards.
+
+Lưu ý chất lượng ảnh: ảnh nguồn hiện tại có độ phân giải 900×590. Bản này tránh kéo giãn sai tỷ lệ, nhưng muốn hình thật sự sắc nét trên màn hình lớn cần ảnh gốc độ phân giải cao hơn.

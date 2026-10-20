@@ -1,0 +1,9 @@
+DEVIL ROCKER — BUILD 0.17.3
+
+Gameplay cốt lõi: hoàn thiện hiệu ứng chiến đấu.
+- Kỹ năng Hư Không của Beelzebub nay làm giảm 25% sát thương địch trong thời gian hiệu ứng còn hiệu lực.
+- Khi phòng thủ, đòn đánh phụ của boss cũng được giảm sát thương, nhất quán với đòn phản công chính.
+- Bản chơi mới bắt đầu với đội hình 6 Devil đã chọn sẵn; dữ liệu lưu hiện có được giữ nguyên và không tự ghi đè đội hình cũ.
+- Giữ khóa lưu dmt_offline_save và toàn bộ ảnh trong assets/cards/.
+
+Ghi chú: đây là các chỉ số/hiệu ứng mô phỏng của Devil Rocker.

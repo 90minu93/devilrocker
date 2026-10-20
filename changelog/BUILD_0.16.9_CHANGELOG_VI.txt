@@ -1,0 +1,11 @@
+Devil Maker Tokyo — Offline Browser Prototype 0.16.9
+
+Thay đổi:
+- Thêm nút CHANGELOG cạnh HƯỚNG DẪN trên màn hình khởi động.
+- Popup changelog mô tả các tính năng hiện có và giới hạn của prototype.
+- Ghi rõ hiện chỉ Lilith, Asmodeus và Astaroth có bộ ảnh riêng; cả 6 cấp sao hiện dùng chung một ảnh placeholder cho mỗi Devil, chưa phải ảnh tiến hóa riêng.
+- Không thay đổi cấu trúc save; khóa localStorage vẫn là dmt_offline_save.
+
+Tính năng được mô tả: Start screen, hướng dẫn, bộ sưu tập, lọc/yêu thích, đội hình tối đa 6, gacha thường/nhanh, đổi thẻ trùng thành mảnh, huy hiệu R/SR/SSR, chiến đấu theo lượt mô phỏng, nâng cấp, thăng sao, nhiệm vụ, Dungeon 30 tầng, sao lưu/khôi phục JSON và Debug.
+
+Lưu ý: đây là fan restoration prototype offline; chưa khôi phục hoàn toàn game gốc. Kiểm tra cú pháp JavaScript và ZIP cần được thực hiện sau khi đóng gói.

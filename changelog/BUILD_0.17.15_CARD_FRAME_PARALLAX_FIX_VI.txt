@@ -1,0 +1,6 @@
+DEVIL ROCKER 0.17.15 — FIX HIỂN THỊ KHUNG THẺ VÀ 2.5D
+
+- Sửa lỗi handler pointer chưa được gắn vào thẻ chi tiết, khiến hiệu ứng nghiêng 2.5D không hoạt động.
+- Áp dụng khung và ánh sáng theo cấp sao rõ ràng hơn cho thẻ.
+- Tôn trọng prefers-reduced-motion.
+- Không thay đổi gameplay, tỷ lệ gacha, dữ liệu save hoặc khóa dmt_offline_save.

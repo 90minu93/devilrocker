@@ -1,0 +1,8 @@
+DEVIL ROCKER — BUILD 0.17.12
+Hiệu ứng artwork riêng cho màn chi tiết Devil
+
+- Thêm chuyển động nổi nhẹ cho ảnh nhân vật trong màn chi tiết.
+- Thêm hào quang và lớp ma thuật theo màu cho Lilith, Satan, Aya, Kitsune, Mika, Forneus, Beelzebub, Marbas, Lucifer và Ren.
+- Giữ hiệu ứng ánh sáng lướt đang có; không cần GIF hoặc ảnh mới.
+- Tôn trọng prefers-reduced-motion.
+- Giữ nguyên gameplay, save key dmt_offline_save, splash và assets/cards.

@@ -1,0 +1,10 @@
+DEVIL ROCKER — BUILD 0.17.14
+SỬA KẾT QUẢ SSR SAU REVEAL
+
+- Sau khi xem xong chuỗi SSR reveal, dựng lại dàn kết quả từ danh sách lượt roll gốc.
+- Đảm bảo các thẻ SSR đã xuất hiện ở màn reveal vẫn hiện trong dàn kết quả cuối, cùng toàn bộ thẻ còn lại.
+- Giữ nguyên thứ tự và số lượng từng lượt rút; thẻ trùng vẫn được hiển thị riêng theo đúng số lần rút.
+- Tiếp tục highlight các thẻ SSR trong kết quả cuối và tự cuộn đến khu vực kết quả.
+- Không thay đổi tỷ lệ gacha, phần thưởng, tiến trình lưu hoặc khóa save `dmt_offline_save`.
+
+Kiểm tra: cú pháp JavaScript và cấu trúc ZIP. Chưa kiểm thử trực tiếp trên trình duyệt.

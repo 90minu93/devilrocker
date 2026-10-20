@@ -1,0 +1,33 @@
+DEVIL ROCKER — PROMPT CARD 1★ & 6★ (VI/EN)
+======================================================
+PROMPT CHUNG
+
+
+Create one premium vertical 2:3 anime dark-fantasy collectible RPG character illustration, 1024x1536. One adult character age 21+, head and upper body clearly visible, centered composition, consistent polished Japanese gacha game key art, intricate costume, refined anatomy, expressive face, cinematic rim lighting, detailed magical atmosphere and layered background. Full-bleed artwork only. No text, no letters, no numbers, no logo, no watermark, no card border, no UI, no collage, no split panels, no multiple characters, no malformed hands. Keep the character identity consistent with the description.
+VARIANT 1★:
+restrained simple magic, clean silhouette, subtle particles, modest lighting, less ornamentation, readable face, muted controlled palette, early-stage character illustration.
+
+
+## Samael
+CHARACTER PROMPT: Adult anime fantasy character: short black hair, cool gaze, shadow-reaper coat and blades. Signature magic: shadow blades, black smoke ribbons, violet edge light. Palette: black, charcoal, violet. Original design, not based on any existing copyrighted character.
+
+File 1★: assets/cards/samael_1star.webp — dùng PROMPT CHUNG + CHARACTER PROMPT + VARIANT 1★. 
+File 6★: assets/cards/samael_6star.webp — dùng PROMPT CHUNG + CHARACTER PROMPT + VARIANT 6★.
+
+## Marbas
+CHARACTER PROMPT: Adult anime fantasy character: chestnut hair, focused alchemist, detailed practical coat. Signature magic: emerald vapor, glass vials, alchemical glyphs. Palette: emerald, brown, brass. Original design, not based on any existing copyrighted character.
+
+File 1★: assets/cards/marbas_1star.webp — dùng PROMPT CHUNG + CHARACTER PROMPT + VARIANT 1★. 
+File 6★: assets/cards/marbas_6star.webp — dùng PROMPT CHUNG + CHARACTER PROMPT + VARIANT 6★.
+
+## Forneus
+CHARACTER PROMPT: Adult anime fantasy character: moss-green hair, calm forest-spirit guardian attire. Signature magic: floating leaves, bioluminescent vines, green spirit wisps. Palette: forest green, jade, gold. Original design, not based on any existing copyrighted character.
+
+File 1★: assets/cards/forneus_1star.webp — dùng PROMPT CHUNG + CHARACTER PROMPT + VARIANT 1★. 
+File 6★: assets/cards/forneus_6star.webp — dùng PROMPT CHUNG + CHARACTER PROMPT + VARIANT 6★.
+
+## Valak
+CHARACTER PROMPT: Adult anime fantasy character: cobalt hair, determined swordsman, elegant thunder blade outfit. Signature magic: blue lightning arcs, electric particles, storm sigil. Palette: cobalt, white, dark steel. Original design, not based on any existing copyrighted character.
+
+File 1★: assets/cards/valak_1star.webp — dùng PROMPT CHUNG + CHARACTER PROMPT + VARIANT 1★. 
+File 6★: assets/cards/valak_6star.webp — dùng PROMPT CHUNG + CHARACTER PROMPT + VARIANT 6★.

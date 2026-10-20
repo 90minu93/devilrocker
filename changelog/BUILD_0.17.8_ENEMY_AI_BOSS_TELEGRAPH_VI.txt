@@ -1,0 +1,8 @@
+DEVIL ROCKER — BUILD 0.17.8
+AI địch và cảnh báo tuyệt kỹ boss
+
+- Địch ưu tiên nhắm vào đồng đội có tỷ lệ HP thấp nhất, tạo áp lực chiến thuật rõ hơn.
+- Boss báo trước tuyệt kỹ diện rộng; người chơi có một lượt để chọn Phòng thủ hoặc hồi máu trước khi đòn đánh xảy ra.
+- Tuyệt kỹ gây sát thương lên các thành viên còn sống, có tính đến phòng thủ, suy yếu và khiên.
+- Sửa xử lý phòng thủ để hiệu ứng giảm sát thương áp dụng đúng cho đòn boss được báo trước.
+- Giữ nguyên save key dmt_offline_save và các assets/cards.

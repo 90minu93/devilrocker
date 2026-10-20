@@ -1,0 +1,11 @@
+DEVIL ROCKER — BUILD 0.17.13
+
+- Thêm hiệu ứng parallax 2.5D cho thẻ trong hồ sơ: nghiêng nhẹ theo vị trí con trỏ, có ánh sáng phản chiếu và tự trở về vị trí ban đầu.
+- Thêm khung thẻ theo cấp sao: viền trung tính cho sao thấp, tím cho cấp trung, vàng phát sáng cho ★5–★6.
+- Khi lượt triệu hồi có SSR, mở màn hình reveal toàn màn hình với flash, nền ma thuật, thẻ phóng lớn và ánh sáng lướt.
+- Nếu một lượt có nhiều SSR, hiển thị từng SSR riêng trước khi quay về danh sách kết quả; SSR trong danh sách được viền và phát sáng để dễ nhận ra.
+- Quay nhanh vẫn hiển thị reveal SSR để không bỏ lỡ thẻ hiếm.
+- Tôn trọng prefers-reduced-motion; không yêu cầu quyền cảm biến nghiêng trên điện thoại.
+- Giữ nguyên logic gameplay, save key dmt_offline_save và tài nguyên assets/cards.
+
+Kiểm tra: kiểm tra cú pháp JavaScript bằng Node và cấu trúc ZIP/tài nguyên. Chưa xác nhận bằng kiểm thử trình duyệt thực tế.

@@ -1,0 +1,13 @@
+DEVIL ROCKER — Build 0.17.0
+
+- Đổi thương hiệu giao diện sang Devil Rocker; ghi rõ đây là bản phục dựng fan-made lấy cảm hứng, không phải game gốc.
+- Thêm cụm Sao lưu / Reset Save / Debug bên trái, ngay dưới tên game.
+- Menu chính được bố trí theo lưới cân bằng; các nút chức năng chính có kích thước đồng nhất.
+- Thêm nút Trang chủ trực tiếp trong màn hình Thăng sao.
+- Card chưa có ảnh dùng nền placeholder tím thống nhất và biểu tượng lớn hơn.
+- Thêm tiểu sử, tính cách và câu thoại fan-made cho 12 Devil hiện có trong popup chi tiết.
+- Thêm banner/hero, splash art, logo chữ và hình tham khảo UI được tạo mới cho Devil Rocker.
+- Đội hình nhập từ save giữ tối đa 6 thành viên.
+- Khóa save dmt_offline_save không đổi.
+
+Lưu ý: các hình ảnh mới là concept art dùng làm tài nguyên nền, không phải bộ portrait riêng cho mọi Devil. Lilith, Astaroth và Asmodeus vẫn là ba Devil có ảnh card riêng hiện tại; cả 6 cấp sao dùng chung ảnh placeholder/ảnh hiện có.

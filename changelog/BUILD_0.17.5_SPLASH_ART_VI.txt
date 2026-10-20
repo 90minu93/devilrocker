@@ -1,0 +1,8 @@
+DEVIL ROCKER — BUILD 0.17.5
+Màn hình khởi động dùng artwork toàn khung
+
+- Dùng assets/devil_rocker_splash.webp làm artwork chính cho màn khởi động.
+- Bỏ lớp panel/logo/nội dung HTML đè lên artwork để tránh hiển thị trùng.
+- Giữ các vùng bấm trong suốt cho Vào game, Hướng dẫn và Changelog.
+- Căn ảnh theo contain để tránh cắt artwork; nền tối lấp phần dư trên màn hình khác tỷ lệ.
+- Giữ nguyên save key, gameplay, dữ liệu và assets/cards.

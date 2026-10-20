@@ -1,0 +1,8 @@
+DEVIL ROCKER 0.17.4 — BATTLE REPORT & TEAM ROLES
+
+- Thêm bảng thống kê sau trận: tổng sát thương, số lượt, MVP sát thương và tỷ lệ đóng góp từng Devil.
+- Ghi nhận sát thương đánh thường, kỹ năng và sát thương theo thời gian vào tổng kết.
+- Bổ sung gợi ý vai trò đội hình ngay trong màn chiến đấu để người chơi dễ thử đội hình khác nhau.
+- Giữ nguyên khóa lưu dmt_offline_save, dữ liệu tiến trình và toàn bộ ảnh card trong assets/cards/.
+
+Kiểm tra: xác thực cấu trúc ZIP và cú pháp JavaScript. Chưa kiểm thử tương tác trong trình duyệt thực tế.

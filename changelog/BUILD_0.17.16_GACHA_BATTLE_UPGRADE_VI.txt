@@ -1,0 +1,9 @@
+DEVIL ROCKER — BUILD 0.17.16
+
+Thay đổi lớn:
+- Gacha thường và quay nhanh đổi từ x5 sang x10; chi phí x10 là 24 mảnh theo tỷ lệ chi phí cũ (x5 = 12).
+- Đội hình chiến đấu hiển thị 6 thẻ trên một hàng ở màn hình rộng, thẻ gọn hơn; màn hình hẹp tự chuyển về 3 cột.
+- Bỏ hộp xác nhận và thông báo thành công sau nâng cấp cấp độ/nâng sao; vẫn giữ cảnh báo khi thiếu tài nguyên hoặc đạt giới hạn.
+- Thêm placeholder ảnh 1★ và 6★ cho toàn bộ nhân vật để thử luồng nâng cấp; ảnh placeholder dùng artwork hiện có, chưa phải art tiến hóa riêng.
+- Thêm CARD_PROMPTS_1STAR_6STAR_VI.txt với prompt cho 12 nhân vật, mỗi lần sinh một ảnh.
+- Giữ khóa lưu dmt_offline_save và dữ liệu gameplay khác.

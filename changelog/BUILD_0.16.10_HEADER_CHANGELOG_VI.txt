@@ -1,0 +1,9 @@
+Devil Maker Tokyo — Offline Browser Build 0.16.10
+
+Sửa vị trí nút Changelog theo phản hồi:
+- Nút 📜 CHANGELOG hiện trực tiếp trên thanh tiêu đề/header của game sau khi bấm VÀO GAME.
+- Nút nằm cạnh khu vực tiêu đề DEVIL MAKER TOKYO, không chỉ nằm trong màn hình Start.
+- Bấm nút sẽ mở popup Changelog; có thể đóng popup như trước.
+- Giữ nguyên khóa save dmt_offline_save và nội dung gameplay hiện có.
+
+Kiểm tra: cú pháp JavaScript và ZIP integrity. Chưa kiểm thử tương tác trong trình duyệt.

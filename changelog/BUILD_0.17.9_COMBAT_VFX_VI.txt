@@ -1,0 +1,9 @@
+DEVIL ROCKER — BUILD 0.17.9
+Hiệu ứng chiến đấu trực quan
+
+- Số sát thương nổi trực tiếp trên khu vực chiến đấu; chí mạng có kiểu chữ và ánh sáng nổi bật hơn.
+- Kẻ địch nháy sáng/rung nhẹ khi trúng đòn; thẻ đồng đội phản hồi khi nhận sát thương.
+- Hiệu ứng chữ riêng cho hồi máu, kỹ năng trạng thái, khiên và tuyệt kỹ boss.
+- Rung màn hình nhẹ cho chí mạng/đòn mạnh; hỗ trợ prefers-reduced-motion.
+- Nhật ký chiến đấu vẫn được giữ làm bản ghi chi tiết.
+- Giữ nguyên khóa lưu dmt_offline_save, ảnh splash và assets/cards.

@@ -1,0 +1,33 @@
+DEVIL MAKER TOKYO — BROWSER DEV 0.16
+
+Nội dung chính
+- Thêm hồ sơ chi tiết Devil với giao diện gothic, ảnh thẻ, độ hiếm, kỹ năng và chỉ số.
+- Bộ sưu tập có chế độ Đã sở hữu / Toàn bộ danh mục. Devil chưa sở hữu được đánh dấu riêng.
+- Đánh dấu yêu thích (lưu trong save).
+- Với Lilith, Astaroth và Asmodeus, có thể xem trước ảnh 1★–6★ trong hồ sơ mà không thay đổi sao thực tế.
+- Có thể thêm/bỏ Devil đã sở hữu khỏi đội hình ngay trong hồ sơ.
+- Không thêm trang bị hoặc pet.
+
+Tương thích
+- Giữ localStorage key dmt_offline_save và các trường save cũ.
+- Trường favorites mới được khởi tạo mặc định nếu save cũ chưa có.
+- Giữ đường dẫn assets/cards/ và tên ảnh tiến hóa đã dùng từ bản trước.
+- Tiếp tục sao lưu JSON trước khi cập nhật.
+
+Kiểm tra đóng gói
+- JavaScript syntax check: Node.js.
+- ZIP integrity test: unzip -t.
+- Đây là kiểm tra mã và cấu trúc; chưa thay thế kiểm thử gameplay trực tiếp trên trình duyệt.
+
+Cách chạy
+python3 -m http.server 8000
+Mở http://localhost:8000 trong thư mục bản 0.16.
+
+
+BUILD 0.16.2 DEBUG
+- Thêm màn hình Debug để cộng/đặt vàng và mảnh triệu hồi.
+- Mở toàn bộ thẻ, max cấp/6 sao thẻ đang sở hữu, mở 30 tầng Dungeon để test.
+- Giữ localStorage key dmt_offline_save; giữ assets/cards và sửa preview từ 0.16.1.
+
+
+0.16.3 GACHA: SSR 1%, SR 19%, R 80%; duplicate converts to shards; summon animation and fast summon; star-up uses shards. Save key dmt_offline_save unchanged.

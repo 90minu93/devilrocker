@@ -1,0 +1,7 @@
+DEVIL ROCKER — BUILD 0.17.7
+Thay ảnh splash độ phân giải cao
+
+- Thay assets/devil_rocker_splash.webp bằng ảnh upscale mới do người dùng cung cấp (1269×832).
+- Giữ nguyên tên và đường dẫn asset để CSS hiện tại tiếp tục hoạt động.
+- Giữ tỷ lệ ảnh, các vùng bấm Vào game / Hướng dẫn / Changelog, gameplay và save key dmt_offline_save.
+- Giữ nguyên assets/cards.

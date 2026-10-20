@@ -1,0 +1,20 @@
+Devil Maker Tokyo — Offline Browser Build 0.16.7
+
+Nội dung cập nhật:
+- Đội hình cho phép tối đa 6 Devil; giữ thứ tự chọn và hiển thị 6 vị trí đội hình.
+- Trận chiến render toàn bộ thành viên trong đội hình; lựa chọn kỹ năng hỗ trợ thành viên trong đội.
+- Thêm màn hình Start riêng với nút Bắt đầu và Hướng dẫn.
+- Hướng dẫn tân thủ dạng popup ở lần mở đầu; có thể mở lại từ Start hoặc menu chính.
+- Làm mới menu chính theo cùng phong cách dark/gothic + gold accent, chia các chức năng thành tile dễ dùng trên desktop và mobile.
+- Giữ nguyên khóa save LocalStorage `dmt_offline_save`; thêm cờ `dmt_tutorial_seen_v1` riêng để nhớ đã xem hướng dẫn, không thay đổi cấu trúc save game.
+- Giữ gacha 1-star art và rarity badge R/SR/SSR từ 0.16.6.
+
+Kiểm tra đã thực hiện:
+- JavaScript syntax check bằng Node.js: passed.
+- ZIP integrity check: passed.
+- Chưa thực hiện kiểm thử tương tác trực tiếp trong trình duyệt; nên thử thao tác chọn đủ 6 Devil, vào trận, mở/đóng hướng dẫn và xuất/nhập save.
+
+Lưu ý:
+- Đây vẫn là prototype fan restoration offline; chiến đấu và chỉ số vẫn là mô phỏng.
+- Nếu bạn có bộ ảnh riêng trong `assets/cards/`, hãy sao chép sang thư mục bản mới để giữ ảnh tùy chỉnh.
+- Nên xuất file JSON sao lưu trước khi thử build mới.
